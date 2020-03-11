@@ -1,4 +1,4 @@
-# XANK Token (LXANK)
+# XANK Token (XANK)
 XANK-issued ERC20 public smart contract repository.
 
 https://xank.io
