@@ -1,5 +1,3 @@
-var XANK = artifacts.require("../contracts/XANK.sol");
-
-module.exports = function(deployer) {
-  deployer.deploy(XANK);
-};
+const Token = artifacts.require('Xank');
+module.exports = function(deployer, network, account) {
+}
