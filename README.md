@@ -7,8 +7,8 @@ The whitepaper can be found [here](http://paper.xank.io/).
 
 ## Address
 
-Interaction with XANK is done at the address at `0x68f8b2e7b1a5841724e614758a56ade0482f077e`. See
-https://etherscan.io/token/0x68f8b2e7b1a5841724e614758a56ade0482f077e for live on-chain details.
+Interaction with XANK is done at the address at `0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a`. See
+https://etherscan.io/token/0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a for live on-chain details.
 
 ## Contract Specification
 
