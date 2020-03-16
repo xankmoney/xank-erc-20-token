@@ -12,7 +12,7 @@ https://etherscan.io/token/0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a for live o
 
 ## Contract Specification
 
-XANK (LXANK) is an ERC20 token that is Centrally Minted and Burned and Locked by XANK
+XANK (XANK) is an ERC20 token that is Centrally Minted and Burned and Locked by XANK
 
 ### ERC20 Token
 
